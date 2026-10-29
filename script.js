@@ -6,7 +6,7 @@
   Troque APENAS o conteúdo entre aspas
   pela senha real do Wi-Fi.
 */
-const wifiPassword = "COLOQUE_A_SENHA_DO_WIFI_AQUI";
+const wifiPassword = "Cross292604";
 
 const copyWifiButton = document.getElementById("copyWifiButton");
 const copyFeedback = document.getElementById("copyFeedback");
